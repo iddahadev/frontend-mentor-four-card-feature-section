@@ -27,6 +27,7 @@
 }
 
 .feature {
+    min-height: 15.625rem;
     display: flex;
     flex-direction: column;
     background-color: var(--color-white);
